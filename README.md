@@ -7,6 +7,7 @@ pip install python-telegram-bot==13.13
 ```
 
 - create credentials.json (use app passwords!)
+    - get TELEGRAM_CHAT_ID from  https://t.me/RawInfoBot or https://t.me/raw_data_bot
 
 ```
 {
