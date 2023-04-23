@@ -18,3 +18,5 @@ pip install python-telegram-bot==13.13
 ```
 
 `python main.py`
+
+![image](https://user-images.githubusercontent.com/1487413/233866615-5735d003-6666-4254-9c67-bc9bd7d3afd0.png)
