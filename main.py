@@ -26,6 +26,7 @@ BSKIES_AUTH_TOKEN = ""
 BSKIES_DID = ""
 
 TELEGRAM_CHAT_ID = creds.get("TELEGRAM_CHAT_ID")
+TELEGRAM_CHAT_ID = int(TELEGRAM_CHAT_ID) # just in case someone writes string into the json
 allowlisted_chat_ids =  [TELEGRAM_CHAT_ID]
 
 #  Primary object: updater
